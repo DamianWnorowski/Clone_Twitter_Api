@@ -1,0 +1,1 @@
+twitter-pull && pm2 restart all

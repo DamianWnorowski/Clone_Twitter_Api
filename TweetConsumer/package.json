@@ -1,0 +1,25 @@
+{
+  "name": "tweetconsumer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "consumer-controller.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aldenpeffer/TweetConsumer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aldenpeffer/TweetConsumer/issues"
+  },
+  "homepage": "https://github.com/aldenpeffer/TweetConsumer#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.15",
+    "request": "^2.85.0"
+  }
+}

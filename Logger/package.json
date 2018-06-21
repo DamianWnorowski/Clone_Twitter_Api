@@ -1,0 +1,22 @@
+{
+  "name": "logger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "log-controller.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aldenpeffer/Logger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aldenpeffer/Logger/issues"
+  },
+  "homepage": "https://github.com/aldenpeffer/Logger#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
